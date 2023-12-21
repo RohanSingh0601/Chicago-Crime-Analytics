@@ -1,0 +1,2 @@
+numTrees,maxDepth,maxBins,validation_accuracy
+10,7,32,0.9216104044690651
